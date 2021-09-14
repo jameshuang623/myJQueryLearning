@@ -1,0 +1,2 @@
+- ![img.png](img.png)
+- [jq中$(function(){})与原生window.onload的区别](https://www.cnblogs.com/little-baby/p/11978865.html)
